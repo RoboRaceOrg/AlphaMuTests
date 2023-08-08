@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM7",
+    "baudRate": 9600,
+    "sketch": "Roboracer Alpha Mu™LeftWheelTest\\Roboracer Alpha Mu™LeftWheelTest.ino"
+}
